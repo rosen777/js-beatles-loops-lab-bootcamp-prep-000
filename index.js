@@ -36,7 +36,7 @@ johnLennonFacts(["He was the last Beatle to learn to drive",
     do{
     number++
     array.push("I love the Beatles!")
-    } while(condition)
+    } while(number < 15)
     
     return array
     
