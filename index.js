@@ -42,4 +42,5 @@ johnLennonFacts(["He was the last Beatle to learn to drive",
     
   }
   
+  iloveBeatles(16)
   
