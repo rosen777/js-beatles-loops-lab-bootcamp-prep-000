@@ -34,10 +34,11 @@ johnLennonFacts(["He was the last Beatle to learn to drive",
   function iLoveBeatles(number) {
     var array = [ ]
     do{
+    number++
     array.push("I love the Beatles!")
     } while(condition)
     
-    return 
+    return array
     
   }
   
