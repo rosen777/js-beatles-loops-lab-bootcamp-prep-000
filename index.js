@@ -31,7 +31,7 @@ johnLennonFacts(["He was the last Beatle to learn to drive",
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"])
   
-  function iLoveBeatles(number) {
+  function iLoveTheBeatles(number) {
     var array = [ ]
     do{
     number++
@@ -42,5 +42,5 @@ johnLennonFacts(["He was the last Beatle to learn to drive",
     
   }
   
-  iloveBeatles(16)
+  iloveTheBeatles(16)
   
